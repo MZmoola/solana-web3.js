@@ -1,5 +1,17 @@
 # @solana/rpc-graphql
 
+## 2.0.0-rc.2
+
+### Minor Changes
+
+-   [#3098](https://github.com/solana-labs/solana-web3.js/pull/3098) [`2f541b6`](https://github.com/solana-labs/solana-web3.js/commit/2f541b6c7e87002cf26e911d31df4779d4da674c) Thanks [@buffalojoec](https://github.com/buffalojoec)! - Update program accounts filters for `programAccounts` query
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/codecs-strings@2.0.0-rc.2
+    -   @solana/fast-stable-stringify@2.0.0-rc.2
+
 ## 2.0.0-rc.1
 
 ### Patch Changes
